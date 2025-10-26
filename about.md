@@ -1,2 +1,1 @@
-[[Stocks]]
-[Stocks](Stocks)
+Check out my notes on [Stocks](stocks.md)!
