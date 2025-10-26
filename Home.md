@@ -1,2 +1,2 @@
 [[Stocks]]
-[Stocks](Stocks)
+[Stocks](../Stocks)
