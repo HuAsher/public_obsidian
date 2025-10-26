@@ -1,4 +1,4 @@
-I have started to hear talk of an AI bubble in different circles. To generalize, I think I've heard this from people knowledgeable generally about the topic, but not in the tech sphere and not from laymen.
+I have started to hear talk of an AI bubble in different circles. To generalize, I think I've heard this from people generally knowledgeable about the topic, but not in the tech sphere and not from laymen.
 
 For now I'm thinking AI is a bubble and will pop but not yet.
 
