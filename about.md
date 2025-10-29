@@ -1,1 +1,1 @@
-Check out my notes on [Stocks](stocks.md)!
+Check out my notes on [Stocks](Stocks.md)!
