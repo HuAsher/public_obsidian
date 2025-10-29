@@ -1,0 +1,3 @@
+[P/E article from investopedia](https://www.investopedia.com/terms/p/price-earningsratio.asp)
+P/E or Price to Earnings is essentially a way to measure how much money a company is earning relative to share price, while taking into account the number of shares there are. A low P/E means the cost is low relative to the company's earnings. I think the investopedia article has a couple examples of what is high or low for a P/E ratio.
+Forward P/E is simply P/E using estimated future earnings.

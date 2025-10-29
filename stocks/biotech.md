@@ -1,0 +1,5 @@
+# Gambling
+I don't really have the domain knowledge or insider knowledge, or any knowledge really to pick which biotech stock will win. But gambling without risk seems like it could be fun, so maybe I pick 1 or 3 biotech stocks and when they moon I say I knew it all along.
+# ABCL
+AbCellera, the household name with big products like: ```ABCL635 is a potential first-in-class antibody medicine for the non-hormonal treatment of VMS (commonly known as hot flashes) associated with menopause. ```
+[In their latest report on their research](https://investors.abcellera.com/news/news-releases/2025/AbCellera-Reports-Q2-2025-Business-Results--First-Participants-Dosed-in-a-Phase-1-Clinical-Trial-of-ABCL635-for-Vasomotor-Symptoms/default.aspx) I'm able to learn nothing. But cool science words so... buy I guess.
