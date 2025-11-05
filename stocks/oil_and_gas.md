@@ -6,6 +6,7 @@ Honestly I need to learn more, I just see they are doing strong right now and wa
 # Trades
 ## NRT
 10/29/25 9:43a ET 	Buy 	707 	$5.65
+
 10/31/25 3:42p ET 	Sell 	326 	$6.31
 ## MPC
 10/29/25 9:33a ET 	Buy 	21 	$191.52
