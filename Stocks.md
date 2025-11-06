@@ -4,14 +4,14 @@ My plan is to keep on this page info for stocks I am researching for a paper tra
 - [KTOS](stocks/ktos.md)
 - [GD](stocks/gd.md)
 - [GE](stocks/ge.md)
-- [ANRO](stocks/anro.md)
 - [FSV](stocks/fsv.md)
 - [PINS](stocks/pins.md)
-- [DOCN](stocks/docn.md)
 # Watch For Pullback To Enter
+- [DOCN](stocks/docn.md)
 - [NWG](stocks/nwg.md)
 # Keep An Eye On
 - [JOBY](stocks/joby.md)
+- [ANRO](stocks/anro.md)
 # Stocks I Have Researched
 - [AMD](stocks/amd.md)
 - [NVDA](stocks/nvda.md)
