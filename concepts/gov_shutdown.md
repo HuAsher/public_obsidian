@@ -1,0 +1,5 @@
+Some wisdom I've seen online is that initially when a shutdown happens no one cares, it's not until the 1 month mark that it really starts to matter. I believe this shutdown has now taken the title of the longest shutdown, passing the one from trumps previous term. 
+
+For a few reasons this shutdown has become and will become more relevant to investors. We're at the point where the shutdown is starting to affect everyone, with food, air travel, and many services we rely on the federal government for. In addition coming up are big events that a shutdown has a huge effect on. Thanksgiving sees a lot of spending and travel, and with ATC not being paid, and SNAP partially funded? People will be limited in festivities they can partake in for Thanksgiving. If it somehow it continues past that, it'll be the same but way worse for Christmas.
+
+We may start to see investors just take money out of the market and wait for the shutdown to end to start investing again.

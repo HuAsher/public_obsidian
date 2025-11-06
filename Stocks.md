@@ -1,4 +1,17 @@
 My plan is to keep on this page info for stocks I am researching for a paper trading game. I expect all stocks I invest in will exist here, and there will be stocks here that I may not invest in.
+# Looking To Enter
+- [ALK](stocks/alk.md)
+- [KTOS](stocks/ktos.md)
+- [GD](stocks/gd.md)
+- [GE](stocks/ge.md)
+- [ANRO](stocks/anro.md)
+- [FSV](stocks/fsv.md)
+- [PINS](stocks/pins.md)
+- [DOCN](stocks/docn.md)
+# Watch For Pullback To Enter
+- [NWG](stocks/nwg.md)
+# Keep An Eye On
+- [JOBY](stocks/joby.md)
 # Stocks I Have Researched
 - [AMD](stocks/amd.md)
 - [NVDA](stocks/nvda.md)
